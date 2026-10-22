@@ -1,11 +1,11 @@
-variable "ami" {
-  type = string
-}
+# variable "ami" {
+#   type = string
+# }
 
-variable "type" {
-  type = string
-}
+# variable "type" {
+#   type = string
+# }
 
-variable "key" {
-  type = string
-}
+# variable "key" {
+#   type = string
+# }
