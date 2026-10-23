@@ -1,4 +1,12 @@
-.terraform/
+**/.terraform/
 *.tfstate
 *.tfstate.*
-terraform.tfvars
+**/terraform.tfvars
+**/lambda_function.zip
+
+# Terraform generated files
+**/.terraform/
+*.tfstate
+*.tfstate.*
+**/terraform.tfvars
+**/lambda_function.zip
