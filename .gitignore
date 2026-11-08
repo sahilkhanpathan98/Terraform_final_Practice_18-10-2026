@@ -1,6 +1,26 @@
+
 # Terraform generated files
 **/.terraform/
 *.tfstate
 *.tfstate.*
+
+# Terraform variable files (credentials)
 **/terraform.tfvars
+**/*.auto.tfvars
+
+# Lambda ZIP files
 **/lambda_function.zip
+
+# Terraform crash logs
+crash.log
+crash.*.log
+
+# Terraform CLI configuration
+.terraformrc
+terraform.rc
+
+# Override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
