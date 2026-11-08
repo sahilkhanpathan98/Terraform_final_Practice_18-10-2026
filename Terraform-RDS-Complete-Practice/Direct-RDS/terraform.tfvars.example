@@ -1,0 +1,6 @@
+aws_region  = "ap-south-1"
+aws_profile = "sahil"
+
+db_name     = "appdb"
+db_username = "admin"
+db_password = "CHANGE_TO_STRONG_PASSWORD"
