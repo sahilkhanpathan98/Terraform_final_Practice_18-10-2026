@@ -1,10 +1,11 @@
-
 # Terraform generated files
 **/.terraform/
+
+# Terraform state files
 *.tfstate
 *.tfstate.*
 
-# Terraform variable files (credentials)
+# Terraform variable files (may contain credentials or sensitive values)
 **/terraform.tfvars
 **/*.auto.tfvars
 
