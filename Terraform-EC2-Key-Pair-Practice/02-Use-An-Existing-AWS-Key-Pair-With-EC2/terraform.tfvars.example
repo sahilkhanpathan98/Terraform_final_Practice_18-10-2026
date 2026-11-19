@@ -1,0 +1,5 @@
+aws_region         = "ap-south-1"
+existing_key_name  = "my-existing-aws-key"
+ami_id             = "ami-xxxxxxxxxxxxxxxxx"
+subnet_id          = "subnet-xxxxxxxxxxxxxxxxx"
+security_group_ids = ["sg-xxxxxxxxxxxxxxxxx"]

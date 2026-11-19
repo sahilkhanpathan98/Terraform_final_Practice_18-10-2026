@@ -1,0 +1,4 @@
+ami_id             = "ami-xxxxxxxxxxxxxxxxx"
+subnet_id          = "subnet-xxxxxxxxxxxxxxxxx"
+security_group_ids = ["sg-xxxxxxxxxxxxxxxxx"]
+public_key_path    = "~/.ssh/id_ed25519.pub"

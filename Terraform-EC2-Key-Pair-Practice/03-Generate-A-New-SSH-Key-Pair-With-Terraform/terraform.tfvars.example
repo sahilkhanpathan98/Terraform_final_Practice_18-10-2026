@@ -1,0 +1,3 @@
+ami_id             = "ami-xxxxxxxxxxxxxxxxx"
+subnet_id          = "subnet-xxxxxxxxxxxxxxxxx"
+security_group_ids = ["sg-xxxxxxxxxxxxxxxxx"]
