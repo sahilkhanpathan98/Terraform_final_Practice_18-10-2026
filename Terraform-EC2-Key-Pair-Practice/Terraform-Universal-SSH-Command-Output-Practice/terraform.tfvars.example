@@ -1,0 +1,8 @@
+# Copy this file to terraform.tfvars and update the values.
+
+# Example: Windows path using forward slashes
+private_key_path = "D:/My-SSH-Keys/terraform-key"
+
+# Amazon Linux commonly uses ec2-user.
+# Ubuntu commonly uses ubuntu.
+ssh_user = "ec2-user"
