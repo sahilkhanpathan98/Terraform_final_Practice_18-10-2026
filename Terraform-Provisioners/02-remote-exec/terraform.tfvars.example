@@ -1,0 +1,6 @@
+aws_region       = "ap-south-1"
+aws_profile      = "sahil"
+key_pair_name    = "REPLACE_WITH_EXISTING_KEY_PAIR"
+private_key_path = "C:/Users/YourName/.ssh/your-key.pem"
+ssh_allowed_cidr = "REPLACE_WITH_YOUR_PUBLIC_IP/32"
+instance_type    = "t2.micro"
